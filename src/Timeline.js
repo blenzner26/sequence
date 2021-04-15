@@ -15,6 +15,7 @@ function Timeline() {
         draft="Draft 1"
         chapter="Chapter 1"
         url="https://data.getty.edu/museum/api/iiif/3034/manifest.json"
+        url2="https://data.getty.edu/museum/api/iiif/106420/manifest.json"
         description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
       />
       <TimelineElement
@@ -24,6 +25,7 @@ function Timeline() {
         draft="Draft 2"
         chapter="Chapter 1"
         url="https://data.getty.edu/museum/api/iiif/1359/manifest.json"
+        url2="https://data.getty.edu/museum/api/iiif/106420/manifest.json"
         description="Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
       />
       <TimelineElement
